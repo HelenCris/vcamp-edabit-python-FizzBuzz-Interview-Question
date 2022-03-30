@@ -1,2 +1,2 @@
 Captura do Teste:
-[FizzBuzz Python](fizzbuzz-python.png)
+![FizzBuzz Python](/fizzbuzz-python.png)
